@@ -28,8 +28,8 @@ def sumThree(a, T):
 		print 'no trio found'
 		return False
 		
-a = [1, 3, 4, 5, 8]
 b = [4, 5, 2, 18, 5, 9]
+a = [1, 3, 4, 5, 8]
 c = [1, 33, 4, 8, 15, 6]
 print(sumTwo(a, 9))
 print(sumTwo(b, 8))
